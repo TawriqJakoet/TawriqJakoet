@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @TawriqJakoet
+- 👀 My hobbies are Health, Movies, Series and Games
 - 🌱 I’m currently learning Machine Learning + Python + Django
 - 💞️ I’m looking to Freelance Python + PHP -> tawriq@gmail.com
 
